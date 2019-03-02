@@ -6,4 +6,4 @@
 # Examples:
 #
 # 
-User.create([{email: 'test@test.com', password: 'testtest'}])
+User.create([{ email: 'test@test.com', password: 'testtest' }])
