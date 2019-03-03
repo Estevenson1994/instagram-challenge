@@ -5,12 +5,12 @@ class PhotoController < ApplicationController
 
   def store
     @value = Cloudinary::Uploader.upload(params[:image])
-    @post = Post.new({:link => @value['secure_url'], :caption => params[:caption]})
+    @post = Post.new({ :link => @value['secure_url'], :caption => params[:caption] })
 
     if @post.save
       Pusher.trigger('posts-channel', 'new-post', {
         link: @post.link,
-        caption:@post.caption
+        caption: @post.caption
       })
     end
     redirect_to('/')

@@ -6,5 +6,9 @@
 # Examples:
 #
 # 
-User.create([{ email: 'test@test.com', password: 'testtest', user_name: 'test', first_name: 'test', last_name: 'test' }])
-
+User.create([{ email: 'test@test.com', 
+               password: 'testtest', 
+               user_name: 'test', 
+               first_name: 'test', 
+               last_name: 'test' 
+             }])
