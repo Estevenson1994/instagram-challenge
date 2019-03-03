@@ -9,11 +9,13 @@ RSpec.describe PhotoController, type: :controller do
     end
   end
 
-  describe "GET #store" do
+  describe "POST #store" do
     it "returns http success" do
       get :store
       expect(response).to have_http_status(302)
     end
   end
+
+  
 
 end

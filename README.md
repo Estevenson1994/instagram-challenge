@@ -25,6 +25,10 @@ The following user stories were implemented:
 ```
 User can sign up
 
+User can signup with fistname, lastname and username
+
+When a user is logged in, they can see their username on the page
+
 User can log in
 
 User can log out
