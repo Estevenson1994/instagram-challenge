@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: estevenson94
+  api_key: '224582167354989'
+  api_secret: 1twbKwmqIt7FAj0jcsNHzQAQZHY
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: estevenson94
+  api_key: '224582167354989'
+  api_secret: 1twbKwmqIt7FAj0jcsNHzQAQZHY
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: estevenson94
+  api_key: '224582167354989'
+  api_secret: 1twbKwmqIt7FAj0jcsNHzQAQZHY
+  enhance_image_tag: true
+  static_file_support: false
