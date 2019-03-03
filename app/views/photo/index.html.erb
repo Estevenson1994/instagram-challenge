@@ -19,7 +19,8 @@
                 <div>
                     <img class="post-image" src="<%= post.link %>">
                 </div>
-                <p class="post-caption"><%= post.caption %></p>
+
+                <p class="post-caption"><strong><%= User.find_by_id(post.user_id).user_name %></strong> <%= post.caption %></p>
             </div>
             <% end %>
         </div>

@@ -2,6 +2,10 @@ require 'rails_helper'
 
 RSpec.describe PhotoController, type: :controller do
 
+  def setup
+    sign_in User.find_by_id(1)
+  end
+
   describe "GET #index" do
     it "returns http success" do
       get :index
@@ -15,7 +19,4 @@ RSpec.describe PhotoController, type: :controller do
       expect(response).to have_http_status(302)
     end
   end
-
-  
-
 end
