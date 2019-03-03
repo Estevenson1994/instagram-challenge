@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   get 'photo/index'
-  get 'photo/store'
+  post 'photo/store'
   get 'welcome/index'
   root to: "photo#index"
   devise_for :users  

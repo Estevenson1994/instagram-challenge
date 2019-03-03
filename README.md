@@ -31,6 +31,8 @@ User can log out
 
 User can see posts
 
+User can see the time post was added
+
 Posts are displayed in reverse chronological order
 
 User can add a post with a caption
