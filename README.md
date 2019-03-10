@@ -15,8 +15,12 @@ This is the [Makers Academy](https://makers.tech/) week 8 weekend challenge. The
 - **Capybara** to test
 - **Travis** for continuous integration
 - **Heroku** for deployment
+- **[Cloudinary](https://cloudinary.com/)** for photo storage
+- **[Pusher](https://pusher-community.github.io/real-time-laravel/introduction/what-is-pusher.html)** to see uploaded photos in real time
 
-## Setting up
+## Database Planning
+
+![Screenshot](https://i.imgur.com/vsJ20ul.png)
 
 ## User stories
 
