@@ -18,9 +18,11 @@ This is the [Makers Academy](https://makers.tech/) week 8 weekend challenge. The
 - **[Cloudinary](https://cloudinary.com/)** for photo storage
 - **[Pusher](https://pusher-community.github.io/real-time-laravel/introduction/what-is-pusher.html)** to see uploaded photos in real time
 
-## Database Planning
+## Database Modelling
 
-![Screenshot](https://i.imgur.com/vsJ20ul.png)
+![Screenshot](https://i.imgur.com/6ZAXHN9.png)
+
+## Frontend Modelling
 
 ## User stories
 
