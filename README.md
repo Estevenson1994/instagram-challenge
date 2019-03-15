@@ -4,8 +4,6 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/e7f9669ad5818bba1c08/maintainability)](https://codeclimate.com/github/Estevenson1994/instagram-challenge/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/e7f9669ad5818bba1c08/test_coverage)](https://codeclimate.com/github/Estevenson1994/instagram-challenge/test_coverage)
-
 This is the [Makers Academy](https://makers.tech/) week 8 weekend challenge. The aim of this challenge was to build an instagram clone, instructions given can be found [here](https://github.com/makersacademy/instagram-challenge).
 
 ## Tech used in this project:
