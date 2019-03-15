@@ -18,7 +18,7 @@ This is the [Makers Academy](https://makers.tech/) week 8 weekend challenge. The
 
 ## Database Modelling
 
-![Screenshot](https://i.imgur.com/6ZAXHN9.png)
+![Screenshot](https://i.imgur.com/5q55gJJ.png)
 
 ## Frontend Modelling
 
